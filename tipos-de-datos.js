@@ -18,3 +18,24 @@ let numeros_edad = 25;
 
  //bigint
  let   numeroGrande= 2n
+
+
+ //tipos de datos  complejos
+
+ //object
+
+ let carro= {
+    marca:"tesla",
+    modelo: "model S",
+    valor: 109000
+ }
+
+ //Array
+ let frutas = ["banano","yuca"]
+
+ //function
+
+ function saludar(){
+    
+
+ }
