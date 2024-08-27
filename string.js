@@ -8,3 +8,4 @@ let frase='Javascript me da Pereza'
 console.log(frase.length)
 console.log(frase.toLocaleLowerCase());
 console.log(frase.toLocaleUpperCase());
+console.log(frase.substring(0,10));
